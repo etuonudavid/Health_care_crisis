@@ -1,6 +1,6 @@
 # Tacking health crisis in AFRICA. - People dying from lac of medical resources
 
-**This Project aims to to identify the health challenges facing African nations over the years and then profer solutions to these findings.
+**This Project aims to to identify the health challenges facing African nations over the years and then profer solutions to these findings.**
 
 There are five datasets used in this project
 - Causes of deaths - This holds the number of deaths and causes of deaths from 1990 - 2019
